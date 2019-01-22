@@ -10,9 +10,10 @@ This was a collaborative project designed and implemented with the help of:
 ### The repository contains:
 
  - Collaborative Android Team Project Including
-  - Project Plan Document
-  - Test Plan for QA
-  - Use Case Models
-  - Design Document for the Application
-  - User Manuals
-  - Source Code for Grocery list Management Android App
+ 
+    - Project Plan Document
+    - Test Plan for QA
+    - Use Case Models
+    - Design Document for the Application
+    - User Manuals
+    - Source Code for Grocery list Management Android App
